@@ -1,0 +1,7 @@
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\bin\Release\EncrDecr.exe.config
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\bin\Release\EncrDecr.exe
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\bin\Release\EncrDecr.pdb
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\obj\Release\EncrDecr.csproj.AssemblyReference.cache
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\obj\Release\EncrDecr.csproj.CoreCompileInputs.cache
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\obj\Release\EncrDecr.exe
+E:\-Loader-Project-Apolon-master\Sources\EncrDecr\obj\Release\EncrDecr.pdb

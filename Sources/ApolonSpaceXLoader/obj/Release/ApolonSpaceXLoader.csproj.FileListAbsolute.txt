@@ -1,0 +1,8 @@
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\bin\Release\ApolonSpaceXLoader.exe.config
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\bin\Release\ApolonSpaceXLoader.exe
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\bin\Release\ApolonSpaceXLoader.pdb
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\obj\Release\ApolonSpaceXLoader.csproj.AssemblyReference.cache
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\obj\Release\ApolonSpaceXLoader.csproj.CoreCompileInputs.cache
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\obj\Release\ApolonSpaceXLoader.exe
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\obj\Release\ApolonSpaceXLoader.pdb
+E:\-Loader-Project-Apolon-master\Sources\ApolonSpaceXLoader\obj\Release\ApolonSpaceXLoader.exe.config
